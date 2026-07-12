@@ -67,7 +67,7 @@ Follow these commands to deploy the production architecture suite locally on you
 
 ### 1. Clone the active platform repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AeroMetrics-Nexus-AI.git](https://github.com/YOUR_USERNAME/AeroMetrics-Nexus-AI.git)
+git clone [https://github.com/YOUR_USERNAME/AeroMetrics-Nexus-AI.git](https://github.com/vishalyadav351/AeroMetrics-Nexus-AI.git)
 cd AeroMetrics-Nexus-AI
 
 2. Install all core micro-dependencies:
